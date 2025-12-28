@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "last_updated": "2025-12-28",
   "items": [
     {
@@ -14,6 +14,13 @@
       "title": "Monitor Android Network Activity",
       "file": "android/network-monitoring.md",
       "level": "Intermediate",
+      "platform": "Android"
+    },
+    {
+      "id": "android-security",
+      "title": "Enhence Network Security",
+      "file": "android/network-sec.md",
+      "level": "Beginner",
       "platform": "Android"
     },
     {
