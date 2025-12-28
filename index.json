@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "last_updated": "2025-01-01",
+  "items": [
+    {
+      "id": "gmail-security",
+      "title": "Secure Your Gmail Account",
+      "file": "email/gmail-security.md",
+      "level": "Beginner",
+      "platform": "All"
+    },
+    {
+      "id": "android-network-monitor",
+      "title": "Monitor Android Network Activity",
+      "file": "android/network-monitoring.md",
+      "level": "Intermediate",
+      "platform": "Android"
+    },
+    {
+      "id": "antivirus-basics",
+      "title": "Antivirus & Malware Basics",
+      "file": "tools/antivirus-basics.md",
+      "level": "Beginner",
+      "platform": "Windows"
+    }
+  ]
+}
