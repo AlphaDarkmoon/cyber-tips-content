@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "last_updated": "2025-01-01",
+  "version": 2,
+  "last_updated": "2025-12-28",
   "items": [
     {
       "id": "gmail-security",
@@ -20,6 +20,13 @@
       "id": "antivirus-basics",
       "title": "Antivirus & Malware Basics",
       "file": "tools/antivirus-basics.md",
+      "level": "Beginner",
+      "platform": "Windows"
+    },
+    {
+      "id": "network-firewall",
+      "title": "Basic Network Firewall Setup",
+      "file": "tools/network-firewall.md",
       "level": "Beginner",
       "platform": "Windows"
     }
