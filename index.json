@@ -1,11 +1,18 @@
 {
-  "version": 3,
+  "version": 4,
   "last_updated": "2025-12-28",
   "items": [
     {
       "id": "gmail-security",
       "title": "Secure Your Gmail Account",
       "file": "email/gmail-security.md",
+      "level": "Beginner",
+      "platform": "All"
+    },
+    {
+      "id": "gmail-apps",
+      "title": "List of Gmail Apps",
+      "file": "email/gmail-apps.md",
       "level": "Beginner",
       "platform": "All"
     },
