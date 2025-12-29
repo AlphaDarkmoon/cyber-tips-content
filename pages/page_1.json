@@ -10,20 +10,76 @@
       "priority": 1
     },
     {
-      "id": "gmail-apps",
-      "title": "List of Gmail Apps",
-      "file": "email/gmail-apps.md",
+      "id": "two-factor-auth",
+      "title": "Two-Factor Authentication Guide",
+      "file": "security/two-factor-auth.md",
       "level": "Beginner",
       "platform": "All",
       "priority": 1
     },
     {
-      "id": "android-network-monitor",
-      "title": "Monitor Android Network Activity",
-      "file": "android/network-monitoring.md",
+      "id": "password-manager",
+      "title": "Password Manager Essentials",
+      "file": "password/password-manager.md",
+      "level": "Beginner",
+      "platform": "All",
+      "priority": 1
+    },
+    {
+      "id": "strong-passwords",
+      "title": "Creating Strong Passwords",
+      "file": "password/strong-passwords.md",
+      "level": "Beginner",
+      "platform": "All",
+      "priority": 1
+    },
+    {
+      "id": "phishing-prevention",
+      "title": "Phishing Attack Prevention",
+      "file": "security/phishing-prevention.md",
+      "level": "Beginner",
+      "platform": "All",
+      "priority": 1
+    },
+    {
+      "id": "vpn-guide",
+      "title": "VPN Usage Guide",
+      "file": "networking/vpn-guide.md",
       "level": "Intermediate",
-      "platform": "Android",
-      "priority": 2
+      "platform": "All",
+      "priority": 1
+    },
+    {
+      "id": "social-media-privacy",
+      "title": "Social Media Privacy Settings",
+      "file": "privacy/social-media-privacy.md",
+      "level": "Beginner",
+      "platform": "All",
+      "priority": 1
+    },
+    {
+      "id": "online-shopping",
+      "title": "Safe Online Shopping Practices",
+      "file": "security/online-shopping.md",
+      "level": "Beginner",
+      "platform": "All",
+      "priority": 1
+    },
+    {
+      "id": "public-wifi-security",
+      "title": "Public Wi-Fi Security",
+      "file": "networking/public-wifi-security.md",
+      "level": "Intermediate",
+      "platform": "All",
+      "priority": 1
+    },
+    {
+      "id": "data-backup",
+      "title": "Data Backup Best Practices",
+      "file": "security/data-backup.md",
+      "level": "Intermediate",
+      "platform": "All",
+      "priority": 1
     }
   ]
 }

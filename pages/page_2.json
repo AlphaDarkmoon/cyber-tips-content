@@ -2,28 +2,84 @@
   "page": 2,
   "items": [
     {
-      "id": "android-security",
-      "title": "Enhence Network Security",
-      "file": "android/network-sec.md",
-      "level": "Beginner",
-      "platform": "Android",
+      "id": "ransomware-protection",
+      "title": "Ransomware Protection",
+      "file": "security/ransomware-protection.md",
+      "level": "Intermediate",
+      "platform": "All",
       "priority": 2
     },
     {
-      "id": "antivirus-basics",
-      "title": "Antivirus & Malware Basics",
-      "file": "tools/antivirus-basics.md",
+      "id": "browser-security",
+      "title": "Browser Security Settings",
+      "file": "security/browser-security.md",
       "level": "Beginner",
-      "platform": "Windows",
-      "priority": 3
+      "platform": "All",
+      "priority": 2
     },
     {
-      "id": "network-firewall",
-      "title": "Basic Network Firewall Setup",
-      "file": "tools/network-firewall.md",
+      "id": "file-sharing",
+      "title": "Secure File Sharing",
+      "file": "security/file-sharing.md",
+      "level": "Intermediate",
+      "platform": "All",
+      "priority": 2
+    },
+    {
+      "id": "search-engines",
+      "title": "Privacy-Focused Search Engines",
+      "file": "privacy/search-engines.md",
       "level": "Beginner",
-      "platform": "Windows",
-      "priority": 3
+      "platform": "All",
+      "priority": 2
+    },
+    {
+      "id": "smart-home-security",
+      "title": "Smart Home Security",
+      "file": "security/smart-home-security.md",
+      "level": "Intermediate",
+      "platform": "All",
+      "priority": 2
+    },
+    {
+      "id": "email-security",
+      "title": "Email Security Best Practices",
+      "file": "email/email-security.md",
+      "level": "Beginner",
+      "platform": "All",
+      "priority": 2
+    },
+    {
+      "id": "messaging-apps",
+      "title": "Secure Messaging Apps",
+      "file": "privacy/messaging-apps.md",
+      "level": "Beginner",
+      "platform": "All",
+      "priority": 2
+    },
+    {
+      "id": "usb-security",
+      "title": "USB Drive Security",
+      "file": "security/usb-security.md",
+      "level": "Intermediate",
+      "platform": "All",
+      "priority": 2
+    },
+    {
+      "id": "children-safety",
+      "title": "Children's Online Safety",
+      "file": "privacy/children-safety.md",
+      "level": "Beginner",
+      "platform": "All",
+      "priority": 2
+    },
+    {
+      "id": "identity-theft",
+      "title": "Identity Theft Protection",
+      "file": "security/identity-theft.md",
+      "level": "Intermediate",
+      "platform": "All",
+      "priority": 2
     }
   ]
 }

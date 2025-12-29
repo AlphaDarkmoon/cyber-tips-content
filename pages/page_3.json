@@ -1,0 +1,85 @@
+{
+  "page": 3,
+  "items": [
+    {
+      "id": "cryptocurrency",
+      "title": "Cryptocurrency Security",
+      "file": "security/cryptocurrency.md",
+      "level": "Advanced",
+      "platform": "All",
+      "priority": 3
+    },
+    {
+      "id": "cloud-storage",
+      "title": "Cloud Storage Security",
+      "file": "security/cloud-storage.md",
+      "level": "Intermediate",
+      "platform": "All",
+      "priority": 3
+    },
+    {
+      "id": "gmail-apps",
+      "title": "List of Gmail Apps",
+      "file": "email/gmail-apps.md",
+      "level": "Beginner",
+      "platform": "All",
+      "priority": 3
+    },
+    {
+      "id": "android-network-monitor",
+      "title": "Monitor Android Network Activity",
+      "file": "android/network-monitoring.md",
+      "level": "Intermediate",
+      "platform": "Android",
+      "priority": 3
+    },
+    {
+      "id": "android-security",
+      "title": "Enhance Network Security",
+      "file": "android/network-sec.md",
+      "level": "Beginner",
+      "platform": "Android",
+      "priority": 3
+    },
+    {
+      "id": "antivirus-basics",
+      "title": "Antivirus & Malware Basics",
+      "file": "tools/antivirus-basics.md",
+      "level": "Beginner",
+      "platform": "Windows",
+      "priority": 3
+    },
+    {
+      "id": "network-firewall",
+      "title": "Basic Network Firewall Setup",
+      "file": "tools/network-firewall.md",
+      "level": "Beginner",
+      "platform": "Windows",
+      "priority": 3
+    },
+    {
+      "id": "usb-security-2",
+      "title": "USB Security Best Practices",
+      "file": "security/usb-security.md",
+      "level": "Intermediate",
+      "platform": "All",
+      "priority": 3
+    },
+    {
+      "id": "vpn-advanced",
+      "title": "Advanced VPN Configuration",
+      "file": "networking/vpn-guide.md",
+      "level": "Advanced",
+      "platform": "All",
+      "priority": 3
+    },
+    {
+      "id": "backup-strategy",
+      "title": "Comprehensive Backup Strategy",
+      "file": "security/data-backup.md",
+      "level": "Intermediate",
+      "platform": "All",
+      "priority": 3
+    }
+  ]
+}
