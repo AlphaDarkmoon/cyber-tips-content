@@ -1,0 +1,13 @@
+{
+  "page": 4,
+  "items": [
+    {
+      "id": "crypto-security",
+      "title": "Cryptocurrency Security Best Practices",
+      "file": "security/crypto-security.md",
+      "level": "Advanced",
+      "platform": "All",
+      "priority": 2
+    }
+  ]
+}
