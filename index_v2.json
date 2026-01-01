@@ -1,9 +1,9 @@
 {
-  "version": 7,
+  "version": 8,
   "total_items": 31,
   "page_size": 10,
   "total_pages": 4,
-  "last_updated": "2025-12-29",
+  "last_updated": "2026-01-01",
   "pages": [
     "pages/page_1.json",
     "pages/page_2.json",

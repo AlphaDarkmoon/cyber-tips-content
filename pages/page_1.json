@@ -15,9 +15,9 @@
     },
     {
       "id": "two-factor-auth",
-      "image-url": "https://sample.png",
+      "image-url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",
       "title": "Two-Factor Authentication Guide",
-      "context": "this is some context of topic under 60 words",
+      "context": "this is some 2 factor auth shit",
       "category": "Essential Security",
       "read-time": 5,
       "file": "security/two-factor-auth.md",
@@ -27,7 +27,7 @@
     },
     {
       "id": "password-manager",
-      "image-url": "https://sample.png",
+      "image-url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",
       "title": "Password Manager Essentials",
       "context": "this is some context of topic under 60 words",
       "category": "Essential Security",
@@ -39,7 +39,7 @@
     },
     {
       "id": "strong-passwords",
-      "image-url": "https://sample.png",
+      "image-url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",
       "title": "Creating Strong Passwords",
       "context": "this is some context of topic under 60 words",
       "category": "Essential Security",
@@ -51,7 +51,7 @@
     },
     {
       "id": "phishing-prevention",
-      "image-url": "https://sample.png",
+      "image-url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",
       "title": "Phishing Attack Prevention",
       "context": "this is some context of topic under 60 words",
       "category": "Essential Security",
@@ -63,7 +63,7 @@
     },
     {
       "id": "vpn-guide",
-      "image-url": "https://sample.png",
+      "image-url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",
       "title": "VPN Usage Guide",
       "context": "this is some context of topic under 60 words",
       "category": "Essential Security",
@@ -75,7 +75,7 @@
     },
     {
       "id": "social-media-privacy",
-      "image-url": "https://sample.png",
+      "image-url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",
       "title": "Social Media Privacy Settings",
       "context": "this is some context of topic under 60 words",
       "category": "Essential Security",
@@ -87,7 +87,7 @@
     },
     {
       "id": "online-shopping",
-      "image-url": "https://sample.png",
+      "image-url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",
       "title": "Safe Online Shopping Practices",
       "context": "this is some context of topic under 60 words",
       "category": "Essential Security",
@@ -99,7 +99,7 @@
     },
     {
       "id": "public-wifi-security",
-      "image-url": "https://sample.png",
+      "image-url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",
       "title": "Public Wi-Fi Security",
       "context": "this is some context of topic under 60 words",
       "category": "Essential Security",
@@ -111,7 +111,7 @@
     },
     {
       "id": "data-backup",
-      "image-url": "https://sample.png",
+      "image-url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",
       "title": "Data Backup Best Practices",
       "context": "this is some context of topic under 60 words",
       "category": "Essential Security",
