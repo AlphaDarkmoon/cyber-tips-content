@@ -3,7 +3,7 @@
   "items": [
     {
       "id": "gmail-security",
-      "image-url": "https://cdn.glockapps.com/wp-content/uploads/2024/10/150-3.png",
+      "image-url": "https://images.timesnownews.com/thumb/msid-151553605,width-1280,height-720,resizemode-75/151553605.jpg",
       "title": "Secure Your Gmail Account",
       "context": "this is some context of topic under 60 words",
       "category": "Essential Security",
@@ -15,7 +15,7 @@
     },
     {
       "id": "two-factor-auth",
-      "image-url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",
+      "image-url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_Two_Factor_Authentication.jpg",
       "title": "Two-Factor Authentication Guide",
       "context": "this is some 2 factor auth shit",
       "category": "Essential Security",
