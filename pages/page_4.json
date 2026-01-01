@@ -7,7 +7,11 @@
       "file": "security/crypto-security.md",
       "level": "Advanced",
       "platform": "All",
-      "priority": 2
+      "priority": 2,
+      "image-url": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=800&h=600&fit=crop",
+      "context": "Comprehensive cryptocurrency security guide covering wallet protection, transaction security, and investment safety.",
+      "category": "Security",
+      "read-time": 15
     }
   ]
 }

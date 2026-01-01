@@ -7,7 +7,11 @@
       "file": "security/cryptocurrency.md",
       "level": "Advanced",
       "platform": "All",
-      "priority": 3
+      "priority": 3,
+      "image-url": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=800&h=600&fit=crop",
+      "context": "Advanced security practices for protecting your cryptocurrency investments and wallet security.",
+      "category": "Security",
+      "read-time": 12
     },
     {
       "id": "cloud-storage",
@@ -15,7 +19,11 @@
       "file": "security/cloud-storage.md",
       "level": "Intermediate",
       "platform": "All",
-      "priority": 3
+      "priority": 3,
+      "image-url": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=800&h=600&fit=crop",
+      "context": "Secure your files in cloud storage services and protect against data breaches and unauthorized access.",
+      "category": "Security",
+      "read-time": 8
     },
     {
       "id": "gmail-apps",
@@ -23,7 +31,11 @@
       "file": "email/gmail-apps.md",
       "level": "Beginner",
       "platform": "All",
-      "priority": 3
+      "priority": 3,
+      "image-url": "https://images.unsplash.com/photo-1557200134-90327ee9fafa?w=800&h=600&fit=crop",
+      "context": "Essential Gmail apps and extensions for enhanced email security and productivity.",
+      "category": "Tools",
+      "read-time": 4
     },
     {
       "id": "android-network-monitor",
@@ -31,7 +43,11 @@
       "file": "android/network-monitoring.md",
       "level": "Intermediate",
       "platform": "Android",
-      "priority": 3
+      "priority": 3,
+      "image-url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800&h=600&fit=crop",
+      "context": "Tools and techniques to monitor network activity on Android devices for security analysis.",
+      "category": "Android",
+      "read-time": 7
     },
     {
       "id": "android-security",
@@ -39,7 +55,11 @@
       "file": "android/network-sec.md",
       "level": "Beginner",
       "platform": "Android",
-      "priority": 3
+      "priority": 3,
+      "image-url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800&h=600&fit=crop",
+      "context": "Basic network security enhancements for Android devices to protect against common threats.",
+      "category": "Android",
+      "read-time": 5
     },
     {
       "id": "antivirus-basics",
@@ -47,7 +67,11 @@
       "file": "tools/antivirus-basics.md",
       "level": "Beginner",
       "platform": "Windows",
-      "priority": 3
+      "priority": 3,
+      "image-url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&h=600&fit=crop",
+      "context": "Essential guide to antivirus software and malware protection for Windows systems.",
+      "category": "Tools",
+      "read-time": 6
     },
     {
       "id": "network-firewall",
@@ -55,7 +79,11 @@
       "file": "tools/network-firewall.md",
       "level": "Beginner",
       "platform": "Windows",
-      "priority": 3
+      "priority": 3,
+      "image-url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
+      "context": "Configure Windows firewall for basic network protection and security monitoring.",
+      "category": "Tools",
+      "read-time": 5
     },
     {
       "id": "usb-security-2",
@@ -63,7 +91,11 @@
       "file": "security/usb-security.md",
       "level": "Intermediate",
       "platform": "All",
-      "priority": 3
+      "priority": 3,
+      "image-url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+      "context": "Advanced USB security practices to prevent data theft and malware infection from external drives.",
+      "category": "Security",
+      "read-time": 7
     },
     {
       "id": "vpn-advanced",
@@ -71,7 +103,11 @@
       "file": "networking/vpn-guide.md",
       "level": "Advanced",
       "platform": "All",
-      "priority": 3
+      "priority": 3,
+      "image-url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
+      "context": "Advanced VPN setup and configuration for maximum privacy and security across all platforms.",
+      "category": "Networking",
+      "read-time": 10
     },
     {
       "id": "backup-strategy",
@@ -79,7 +115,11 @@
       "file": "security/data-backup.md",
       "level": "Intermediate",
       "platform": "All",
-      "priority": 3
+      "priority": 3,
+      "image-url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
+      "context": "Complete guide to implementing robust data backup strategies for disaster recovery and data protection.",
+      "category": "Security",
+      "read-time": 9
     }
   ]
 }

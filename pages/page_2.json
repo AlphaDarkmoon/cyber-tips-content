@@ -7,7 +7,11 @@
       "file": "security/ransomware-protection.md",
       "level": "Intermediate",
       "platform": "All",
-      "priority": 2
+      "priority": 2,
+      "image-url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&h=600&fit=crop",
+      "context": "Learn how to protect your devices and data from ransomware attacks, including prevention strategies and recovery options.",
+      "category": "Security",
+      "read-time": 8
     },
     {
       "id": "browser-security",
@@ -15,7 +19,11 @@
       "file": "security/browser-security.md",
       "level": "Beginner",
       "platform": "All",
-      "priority": 2
+      "priority": 2,
+      "image-url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",
+      "context": "Configure your web browser for maximum security and privacy protection against online threats.",
+      "category": "Security",
+      "read-time": 6
     },
     {
       "id": "file-sharing",
@@ -23,7 +31,11 @@
       "file": "security/file-sharing.md",
       "level": "Intermediate",
       "platform": "All",
-      "priority": 2
+      "priority": 2,
+      "image-url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&h=600&fit=crop",
+      "context": "Best practices for securely sharing files online while maintaining privacy and preventing unauthorized access.",
+      "category": "Security",
+      "read-time": 7
     },
     {
       "id": "search-engines",
@@ -31,7 +43,11 @@
       "file": "privacy/search-engines.md",
       "level": "Beginner",
       "platform": "All",
-      "priority": 2
+      "priority": 2,
+      "image-url": "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?w=800&h=600&fit=crop",
+      "context": "Discover search engines that prioritize your privacy and don't track your searches or browsing habits.",
+      "category": "Privacy",
+      "read-time": 5
     },
     {
       "id": "smart-home-security",
@@ -39,7 +55,11 @@
       "file": "security/smart-home-security.md",
       "level": "Intermediate",
       "platform": "All",
-      "priority": 2
+      "priority": 2,
+      "image-url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+      "context": "Secure your smart home devices and IoT ecosystem from hackers and privacy breaches.",
+      "category": "Security",
+      "read-time": 9
     },
     {
       "id": "email-security",
@@ -47,7 +67,11 @@
       "file": "email/email-security.md",
       "level": "Beginner",
       "platform": "All",
-      "priority": 2
+      "priority": 2,
+      "image-url": "https://images.unsplash.com/photo-1557200134-90327ee9fafa?w=800&h=600&fit=crop",
+      "context": "Essential security practices for protecting your email accounts and communications from cyber threats.",
+      "category": "Security",
+      "read-time": 6
     },
     {
       "id": "messaging-apps",
@@ -55,7 +79,11 @@
       "file": "privacy/messaging-apps.md",
       "level": "Beginner",
       "platform": "All",
-      "priority": 2
+      "priority": 2,
+      "image-url": "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?w=800&h=600&fit=crop",
+      "context": "Choose and configure messaging apps that provide end-to-end encryption and privacy protection.",
+      "category": "Privacy",
+      "read-time": 5
     },
     {
       "id": "usb-security",
@@ -63,7 +91,11 @@
       "file": "security/usb-security.md",
       "level": "Intermediate",
       "platform": "All",
-      "priority": 2
+      "priority": 2,
+      "image-url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+      "context": "Protect your data on USB drives and prevent malware infection from external storage devices.",
+      "category": "Security",
+      "read-time": 7
     },
     {
       "id": "children-safety",
@@ -71,7 +103,11 @@
       "file": "privacy/children-safety.md",
       "level": "Beginner",
       "platform": "All",
-      "priority": 2
+      "priority": 2,
+      "image-url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&h=600&fit=crop",
+      "context": "Guide parents on protecting children from online predators, cyberbullying, and inappropriate content.",
+      "category": "Privacy",
+      "read-time": 8
     },
     {
       "id": "identity-theft",
@@ -79,7 +115,11 @@
       "file": "security/identity-theft.md",
       "level": "Intermediate",
       "platform": "All",
-      "priority": 2
+      "priority": 2,
+      "image-url": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&h=600&fit=crop",
+      "context": "Comprehensive strategies to prevent identity theft and protect your personal information online.",
+      "category": "Security",
+      "read-time": 10
     }
   ]
 }
