@@ -1,0 +1,5 @@
+{
+  "id": "tip_002",
+  "title": "Two-Factor Authentication Guide",
+  "content": "Two-factor authentication (2FA) requires two forms of verification before granting access. Use authenticator apps like Google Authenticator or Authy instead of SMS for better security. Enable 2FA on all your important accounts including email, banking, and social media platforms."
+}

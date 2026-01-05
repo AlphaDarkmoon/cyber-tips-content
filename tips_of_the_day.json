@@ -1,0 +1,65 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-01-05",
+  "total_tips": 7,
+  "tips": [
+    {
+      "day": 1,
+      "tip_id": "tip_001",
+      "file": "tips_day/tip_1.json",
+      "category": "Email Security",
+      "priority": "high"
+    },
+    {
+      "day": 2,
+      "tip_id": "tip_002",
+      "file": "tips_day/tip_2.json",
+      "category": "Authentication",
+      "priority": "high"
+    },
+    {
+      "day": 3,
+      "tip_id": "tip_003",
+      "file": "tips_day/tip_3.json",
+      "category": "Password Management",
+      "priority": "high"
+    },
+    {
+      "day": 4,
+      "tip_id": "tip_004",
+      "file": "tips_day/tip_4.json",
+      "category": "Password Security",
+      "priority": "high"
+    },
+    {
+      "day": 5,
+      "tip_id": "tip_005",
+      "file": "tips_day/tip_5.json",
+      "category": "Phishing Prevention",
+      "priority": "high"
+    },
+    {
+      "day": 6,
+      "tip_id": "tip_006",
+      "file": "tips_day/tip_6.json",
+      "category": "Network Security",
+      "priority": "medium"
+    },
+    {
+      "day": 7,
+      "tip_id": "tip_007",
+      "file": "tips_day/tip_7.json",
+      "category": "Privacy",
+      "priority": "medium"
+    }
+  ],
+  "categories": [
+    "Email Security",
+    "Authentication",
+    "Password Management",
+    "Password Security",
+    "Phishing Prevention",
+    "Network Security",
+    "Privacy"
+  ]
+}
