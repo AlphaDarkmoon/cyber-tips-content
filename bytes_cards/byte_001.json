@@ -1,38 +1,18 @@
-{{
-
-  "id": "byte_001",  "id": "byte_001",
-
-  "title": "Secure Your Passwords",  "title": "Secure Your Gmail Account",
-
-  "category": "Essential Security",  "category": "Quick Security",
-
-  "context": "Never use the same password across multiple accounts. Use a reputable password manager to generate and store strong, unique passwords for each service. Enable two-factor authentication wherever possible to add an extra layer of security.",  "context": "Enable two-factor authentication on your Gmail account immediately. This adds a crucial second layer of security beyond just your password, protecting against unauthorized access even if your password is compromised.",
-
-  "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",  "image_url": "https://images.timesnownews.com/thumb/msid-151553605,width-1280,height-720,resizemode-75/151553605.jpg",
-
-  "read_time": 3,  "read_time": 2,
-
-  "content_item": {  "content_item": {
-
-    "id": "password-basics",    "id": "gmail-security",
-
-    "title": "Password Security Fundamentals",    "title": "Secure Your Gmail Account",
-
-    "file": "password/password-basics.md",    "file": "email/gmail-security.md",
-
-    "level": "Beginner",    "level": "Beginner",
-
-    "platform": "All",    "platform": "All",
-
-    "priority": 1    "priority": 1,
-
-  },    "image-url": "https://images.timesnownews.com/thumb/msid-151553605,width-1280,height-720,resizemode-75/151553605.jpg",
-
-  "tags": ["passwords", "security", "authentication"],    "context": "Enable two-factor authentication on your Gmail account immediately...",
-
-  "featured": true    "category": "Essential Security",
-
-}    "read-time": 2
+{
+  "id": "byte_001",
+  "title": "Secure Your Gmail Account",
+  "category": "Essential Security",
+  "context": "Enable two-factor authentication on your Gmail account immediately. This adds a crucial second layer of security beyond just your password, protecting against unauthorized access even if your password is compromised.",
+  "image_url": "https://images.timesnownews.com/thumb/msid-151553605,width-1280,height-720,resizemode-75/151553605.jpg",
+  "read_time": 2,
+  "content_item": {
+    "id": "gmail-security",
+    "title": "Secure Your Gmail Account",
+    "file": "email/gmail-security.md",
+    "level": "Beginner",
+    "platform": "All",
+    "priority": 1,
+    "image-url": "https://images.timesnownews.com/thumb/msid-151553605,width-1280,height-720,resizemode-75/151553605.jpg"
   },
   "tags": ["email", "security", "2fa", "authentication"],
   "featured": true

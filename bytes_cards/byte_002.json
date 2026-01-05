@@ -1,39 +1,18 @@
-{{
-
-  "id": "byte_002",  "id": "byte_002",
-
-  "title": "Two-Factor Authentication",  "title": "Create Strong Passwords",
-
-  "category": "Password Security",  "category": "Password Tips",
-
-  "context": "Enable 2FA on all your important accounts. Use authenticator apps like Google Authenticator or Authy instead of SMS. This ensures that even if someone gets your password, they still need access to your second factor to log in.",  "context": "Never reuse passwords across different accounts. Use a unique, complex password for each service combining uppercase, lowercase, numbers, and special characters. Consider using a password manager to generate and store them securely.",
-
-  "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_Two_Factor_Authentication.jpg",  "image_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",
-
-  "read_time": 4,  "read_time": 3,
-
-  "content_item": {  "content_item": {
-
-    "id": "two-factor-auth",    "id": "strong-passwords",
-
-    "title": "Two-Factor Authentication Guide",    "title": "Creating Strong Passwords",
-
-    "file": "security/two-factor-auth.md",    "file": "password/strong-passwords.md",
-
-    "level": "Beginner",    "level": "Beginner",
-
-    "platform": "All",    "platform": "All",
-
-    "priority": 1    "priority": 1,
-
-  },    "image-url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",
-
-  "tags": ["2fa", "authentication", "security"],    "context": "Never reuse passwords across different accounts...",
-
-  "featured": false    "category": "Essential Security",
-
-}    "read-time": 5
+{
+  "id": "byte_002",
+  "title": "Two-Factor Authentication",
+  "category": "Password Security",
+  "context": "Enable 2FA on all your important accounts. Use authenticator apps like Google Authenticator or Authy instead of SMS. This ensures that even if someone gets your password, they still need access to your second factor to log in.",
+  "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_Two_Factor_Authentication.jpg",
+  "read_time": 4,
+  "content_item": {
+    "id": "two-factor-auth",
+    "title": "Two-Factor Authentication Guide",
+    "file": "security/two-factor-auth.md",
+    "level": "Beginner",
+    "platform": "All",
+    "priority": 1
   },
-  "tags": ["password", "security", "authentication"],
-  "featured": true
+  "tags": ["2fa", "authentication", "security"],
+  "featured": false
 }
