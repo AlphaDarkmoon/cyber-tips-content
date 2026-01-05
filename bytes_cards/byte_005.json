@@ -1,0 +1,39 @@
+{{
+
+  "id": "byte_005",  "id": "byte_005",
+
+  "title": "Social Media Privacy",  "title": "Keep Software Updated",
+
+  "category": "Privacy Protection",  "category": "Device Security",
+
+  "context": "Review your social media privacy settings regularly. Make your profiles private, limit who can see your posts, and be cautious about sharing personal information like your location, phone number, or address.",  "context": "Regularly update your operating system, apps, and antivirus software. Security patches fix known vulnerabilities that hackers exploit. Enable automatic updates when possible to ensure you always have the latest protections.",
+
+  "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",  "image_url": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=800&h=600&fit=crop",
+
+  "read_time": 3,  "read_time": 2,
+
+  "content_item": {  "content_item": {
+
+    "id": "social-media-privacy",    "id": "software-updates",
+
+    "title": "Social Media Privacy Settings",    "title": "Software Update Security",
+
+    "file": "privacy/social-media-privacy.md",    "file": "security/software-updates.md",
+
+    "level": "Beginner",    "level": "Beginner",
+
+    "platform": "All",    "platform": "All",
+
+    "priority": 2    "priority": 2,
+
+  },    "image-url": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=800&h=600&fit=crop",
+
+  "tags": ["privacy", "social-media", "security"],    "context": "Regularly update your operating system and apps...",
+
+  "featured": true    "category": "Essential Security",
+
+}    "read-time": 3
+  },
+  "tags": ["updates", "software", "security", "patches"],
+  "featured": false
+}

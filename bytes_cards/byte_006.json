@@ -1,0 +1,18 @@
+{
+  "id": "byte_006",
+  "title": "Keep Software Updated",
+  "category": "Device Security",
+  "context": "Regularly update your operating system, apps, and antivirus software. Security patches fix vulnerabilities that hackers can exploit. Enable automatic updates when possible to stay protected.",
+  "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
+  "read_time": 2,
+  "content_item": {
+    "id": "software-updates",
+    "title": "Software Update Security",
+    "file": "security/software-updates.md",
+    "level": "Beginner",
+    "platform": "All",
+    "priority": 2
+  },
+  "tags": ["updates", "security", "software"],
+  "featured": false
+}

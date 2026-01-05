@@ -1,0 +1,39 @@
+{{
+
+  "id": "byte_004",  "id": "byte_004",
+
+  "title": "Spot Phishing Emails",  "title": "Spot Phishing Emails",
+
+  "category": "Phishing Prevention",  "category": "Phishing Prevention",
+
+  "context": "Look for red flags in emails: urgent requests for personal information, suspicious sender addresses, poor grammar, and unexpected attachments. Never click links in suspicious emails - instead, navigate directly to the website yourself.",  "context": "Be suspicious of emails asking for personal information or urgent action. Check sender email addresses carefully, hover over links before clicking, and never download attachments from unknown sources. When in doubt, contact the organization directly.",
+
+  "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",  "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
+
+  "read_time": 4,  "read_time": 4,
+
+  "content_item": {  "content_item": {
+
+    "id": "phishing-prevention",    "id": "phishing-prevention",
+
+    "title": "Phishing Attack Prevention",    "title": "Phishing Attack Prevention",
+
+    "file": "security/phishing-prevention.md",    "file": "security/phishing-prevention.md",
+
+    "level": "Beginner",    "level": "Beginner",
+
+    "platform": "All",    "platform": "All",
+
+    "priority": 1    "priority": 1,
+
+  },    "image-url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
+
+  "tags": ["phishing", "email", "security"],    "context": "Be suspicious of emails asking for personal information...",
+
+  "featured": false    "category": "Essential Security",
+
+}    "read-time": 5
+  },
+  "tags": ["phishing", "email", "security", "scams"],
+  "featured": true
+}

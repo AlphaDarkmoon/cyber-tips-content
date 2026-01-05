@@ -1,0 +1,39 @@
+{{
+
+  "id": "byte_003",  "id": "byte_003",
+
+  "title": "Public Wi-Fi Safety",  "title": "VPN for Public WiFi",
+
+  "category": "Network Security",  "category": "Network Security",
+
+  "context": "Avoid accessing sensitive information on public Wi-Fi networks. Use a VPN to encrypt your traffic when connecting to public hotspots. Be cautious about what websites you visit and avoid online banking or shopping on unsecured networks.",  "context": "Always use a VPN when connecting to public WiFi networks. Public hotspots are breeding grounds for hackers who can intercept your data. A VPN encrypts your internet traffic, keeping your personal information safe from prying eyes.",
+
+  "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",  "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
+
+  "read_time": 3,  "read_time": 3,
+
+  "content_item": {  "content_item": {
+
+    "id": "public-wifi-security",    "id": "vpn-guide",
+
+    "title": "Public Wi-Fi Security Guide",    "title": "VPN Usage Guide",
+
+    "file": "networking/public-wifi-security.md",    "file": "networking/vpn-guide.md",
+
+    "level": "Beginner",    "level": "Intermediate",
+
+    "platform": "All",    "platform": "All",
+
+    "priority": 2    "priority": 1,
+
+  },    "image-url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
+
+  "tags": ["wifi", "vpn", "network", "security"],    "context": "Always use a VPN when connecting to public WiFi networks...",
+
+  "featured": true    "category": "Essential Security",
+
+}    "read-time": 5
+  },
+  "tags": ["vpn", "wifi", "network", "encryption"],
+  "featured": false
+}

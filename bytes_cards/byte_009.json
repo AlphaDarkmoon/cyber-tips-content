@@ -1,0 +1,18 @@
+{
+  "id": "byte_009",
+  "title": "Secure Cloud Storage",
+  "category": "Cloud Security",
+  "context": "Use strong, unique passwords for cloud accounts and enable two-factor authentication. Be mindful of what data you store in the cloud and who has access to it. Regularly review and revoke access for unused accounts.",
+  "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
+  "read_time": 3,
+  "content_item": {
+    "id": "cloud-security",
+    "title": "Cloud Storage Security",
+    "file": "security/cloud-security.md",
+    "level": "Intermediate",
+    "platform": "All",
+    "priority": 3
+  },
+  "tags": ["cloud", "storage", "security"],
+  "featured": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": "byte_008",
+  "title": "Recognize Social Engineering",
+  "category": "Social Engineering",
+  "context": "Social engineering attacks manipulate people into divulging confidential information. Be wary of unsolicited calls, emails, or visits asking for sensitive information. Verify identities through official channels before sharing data.",
+  "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
+  "read_time": 3,
+  "content_item": {
+    "id": "social-engineering",
+    "title": "Social Engineering Awareness",
+    "file": "security/social-engineering.md",
+    "level": "Intermediate",
+    "platform": "All",
+    "priority": 2
+  },
+  "tags": ["social-engineering", "awareness", "security"],
+  "featured": false
+}

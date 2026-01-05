@@ -1,0 +1,18 @@
+{
+  "id": "byte_010",
+  "title": "Mobile Device Security",
+  "category": "Mobile Security",
+  "context": "Lock your phone with a strong PIN or biometric authentication. Keep your mobile OS and apps updated. Be cautious about app permissions and only download apps from official stores. Use mobile security software for added protection.",
+  "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
+  "read_time": 3,
+  "content_item": {
+    "id": "mobile-security",
+    "title": "Mobile Device Security Guide",
+    "file": "security/mobile-security.md",
+    "level": "Beginner",
+    "platform": "Mobile",
+    "priority": 2
+  },
+  "tags": ["mobile", "security", "devices"],
+  "featured": true
+}

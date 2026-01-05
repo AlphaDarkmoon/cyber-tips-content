@@ -1,0 +1,90 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-01-05",
+  "total_cards": 10,
+  "cards": [
+    {
+      "id": "byte_001",
+      "file": "bytes_cards/byte_001.json",
+      "category": "Essential Security",
+      "priority": "high",
+      "featured": true
+    },
+    {
+      "id": "byte_002",
+      "file": "bytes_cards/byte_002.json",
+      "category": "Password Security",
+      "priority": "high",
+      "featured": false
+    },
+    {
+      "id": "byte_003",
+      "file": "bytes_cards/byte_003.json",
+      "category": "Network Security",
+      "priority": "medium",
+      "featured": true
+    },
+    {
+      "id": "byte_004",
+      "file": "bytes_cards/byte_004.json",
+      "category": "Phishing Prevention",
+      "priority": "high",
+      "featured": false
+    },
+    {
+      "id": "byte_005",
+      "file": "bytes_cards/byte_005.json",
+      "category": "Privacy Protection",
+      "priority": "medium",
+      "featured": true
+    },
+    {
+      "id": "byte_006",
+      "file": "bytes_cards/byte_006.json",
+      "category": "Device Security",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "byte_007",
+      "file": "bytes_cards/byte_007.json",
+      "category": "Data Protection",
+      "priority": "high",
+      "featured": true
+    },
+    {
+      "id": "byte_008",
+      "file": "bytes_cards/byte_008.json",
+      "category": "Social Engineering",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "byte_009",
+      "file": "bytes_cards/byte_009.json",
+      "category": "Cloud Security",
+      "priority": "low",
+      "featured": false
+    },
+    {
+      "id": "byte_010",
+      "file": "bytes_cards/byte_010.json",
+      "category": "Mobile Security",
+      "priority": "medium",
+      "featured": true
+    }
+  ],
+  "categories": [
+    "Essential Security",
+    "Password Security",
+    "Network Security",
+    "Phishing Prevention",
+    "Privacy Protection",
+    "Device Security",
+    "Data Protection",
+    "Social Engineering",
+    "Cloud Security",
+    "Mobile Security"
+  ],
+  "refresh_interval_hours": 24
+}
